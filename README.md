@@ -1,1 +1,1 @@
-# Theory-test-design-techniques
+# Theory/test design techniques
